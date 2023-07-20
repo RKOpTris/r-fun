@@ -1,0 +1,4 @@
+# meditation_bell
+A simple function allowing you to use R as a meditation bell. It requires the 'beepr'
+package. You can use sounds included with beepr, but they may not be what you want from
+your meditation ;-)
